@@ -53,7 +53,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 对你说的话：{{today_note.DATA}}
 ```
 
-### 项目配置 
+### 项目配置 111111
 Fork本项目
 进入自己项目的Settings  ----> Secrets and variables ---> Actions --> New repository secret
 配置好以下四个值（见上文）
